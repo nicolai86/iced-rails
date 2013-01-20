@@ -2,7 +2,7 @@
 require 'tilt/template'
 require 'iced-coffee-script'
 
-module IcedAssetPipeline
+module IcedRails
   # IcedCoffeeScript template implementation. See:
   # http://maxtaco.github.com/coffee-script/
   #

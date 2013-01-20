@@ -1,4 +1,4 @@
-# IcedAssetPipeline
+# IcedRails
 
 Add support for `.iced` files in the Rails Asset Pipeline
 

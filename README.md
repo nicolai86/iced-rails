@@ -24,6 +24,11 @@ Make sure to name to file `application.iced` and not `application.js.iced`.
 
 See [IcedCoffeeScript][1] for an explanation about iced coffeescript.
 
+## TODO
+
+Iced Deferrals are currently generated inline. If you have multiple .iced files, the deferrals will be generated multiple times, increasing the size of your JS a little.
+Ideally, the first evaluation should generate  Iced Deferrals for the `:window` runtime, and `:none` for all following calls.
+
 ## Contributing
 
 1. Fork it

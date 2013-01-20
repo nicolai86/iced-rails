@@ -6,7 +6,7 @@ Add support for `.iced` files in the Rails Asset Pipeline
 
 Add this line to your application's Gemfile:
 
-    gem 'iced_asset_pipeline'
+    gem 'iced-rails'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install iced_asset_pipeline
+    $ gem install iced-rails
 
 ## Usage
 

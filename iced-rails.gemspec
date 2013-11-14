@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.version       = ::Iced::Rails::VERSION
   gem.authors       = ["Raphael Randschau"]
   gem.email         = ["nicolai86@me.com"]
+  gem.license       = 'MIT'
   gem.description   = %q{IcedCoffeeScript adapter for the Rails asset pipeline.}
   gem.summary       = %q{IcedCoffeeScript adapter for the Rails asset pipeline.}
   gem.homepage      = "https://github.com/nicolai86/iced-rails"

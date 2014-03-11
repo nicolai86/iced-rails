@@ -1,3 +1,4 @@
+#= require "example"
 # taken verbatim from http://maxtaco.github.io/coffee-script/
 search = (keyword, cb) ->
   host = "http://search.twitter.com"
